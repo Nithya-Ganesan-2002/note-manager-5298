@@ -1,0 +1,1 @@
+ /home/kavia/workspace/code-generation/note-manager-5298/notes_mobile_frontend/.dart_tool/flutter_build/e64619c30647bee166149b656e565bed/dart_build_result.json: 
